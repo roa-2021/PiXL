@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Lots Lots of Pixels!</div>
+    <div>Lotsts!</div>
   )
 }
 
